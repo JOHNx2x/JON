@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\ProductApp\ProductApp\bin\Debug\ProductApp.exe.config
+C:\Users\User\source\repos\ProductApp\ProductApp\bin\Debug\ProductApp.exe
+C:\Users\User\source\repos\ProductApp\ProductApp\bin\Debug\ProductApp.pdb
+C:\Users\User\source\repos\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ProductApp\ProductApp\obj\Debug\ProductApp.Properties.Resources.resources
+C:\Users\User\source\repos\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProductApp\ProductApp\obj\Debug\ProductApp.exe
+C:\Users\User\source\repos\ProductApp\ProductApp\obj\Debug\ProductApp.pdb
+C:\Users\User\source\repos\ProductApp\ProductApp\obj\Debug\ProductApp.frmMainWindow.resources
+C:\Users\Acer laptop\Downloads\Compressed\ProductApp-2\ProductApp\ProductApp\bin\Debug\ProductApp.exe.config
+C:\Users\Acer laptop\Downloads\Compressed\ProductApp-2\ProductApp\ProductApp\bin\Debug\ProductApp.exe
+C:\Users\Acer laptop\Downloads\Compressed\ProductApp-2\ProductApp\ProductApp\bin\Debug\ProductApp.pdb
+C:\Users\Acer laptop\Downloads\Compressed\ProductApp-2\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+C:\Users\Acer laptop\Downloads\Compressed\ProductApp-2\ProductApp\ProductApp\obj\Debug\ProductApp.frmMainWindow.resources
+C:\Users\Acer laptop\Downloads\Compressed\ProductApp-2\ProductApp\ProductApp\obj\Debug\ProductApp.Properties.Resources.resources
+C:\Users\Acer laptop\Downloads\Compressed\ProductApp-2\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.GenerateResource.cache
+C:\Users\Acer laptop\Downloads\Compressed\ProductApp-2\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer laptop\Downloads\Compressed\ProductApp-2\ProductApp\ProductApp\obj\Debug\ProductApp.exe
+C:\Users\Acer laptop\Downloads\Compressed\ProductApp-2\ProductApp\ProductApp\obj\Debug\ProductApp.pdb
